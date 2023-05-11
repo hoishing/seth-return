@@ -11,6 +11,13 @@
 
 🔗 [source code](https://github.com/hoishing/seth-return)
 
+## Motivation
+
+When discussing or seeking advice based on the Seth Material, it is often inevitable for personal feelings and opinions to become intertwined with the interpretation of the materials.
+
+Therefore, our objective is to develop a chat bot that utilizes the original Seth Material as its corpus, providing users with an experience akin to engaging in direct conversation with Seth.
+The aim is to incorporate Seth's philosophy, vocabulary, and speaking style in order to simulate an authentic interaction.
+
 ## Tooling
 
 - [LangChain]
@@ -20,13 +27,6 @@
 [LangChain]: https://github.com/hwchase17/langchain
 [ChatGPT API]: https://platform.openai.com/docs/introduction
 [gradio]: https://gradio.app/docs/
-
-## Motivation
-
-When discussing or seeking advice based on the Seth Material, it is often inevitable for personal feelings and opinions to become intertwined with the interpretation of the materials.
-
-Therefore, our objective is to develop a chat bot that utilizes the original Seth Material as its corpus, providing users with an experience akin to engaging in direct conversation with Seth.
-The aim is to incorporate Seth's philosophy, vocabulary, and speaking style in order to simulate an authentic interaction.
 
 ## Questions?
 
