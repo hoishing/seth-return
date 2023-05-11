@@ -1,0 +1,5 @@
+.env
+.chroma
+.ipynb_checkpoints
+try*
+flagged
